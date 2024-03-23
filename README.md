@@ -1,4 +1,4 @@
-# EaglerCraftX Server
+# EaglerXBungee Server for Github Codespaces
 Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
 <br>
 <br>
